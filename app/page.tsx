@@ -14,7 +14,7 @@ const bannerImages = [
     description: "",
   },
   {
-    url: "images/Trio.png",
+    url: "./images/Trio.png",
     title: "Team Energy",
     description: "Meet our team as we set course for discovery and experiments!",
   },
